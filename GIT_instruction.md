@@ -8,3 +8,10 @@
 
 ## 2. Установка GIT
 Загружаем последнюю версию GIT  с сайта https://git-scm.com/downloads
+
+## 3. Настройка GIT
+При первом использовании необходимо представиться. Для этого нужно ввести в терминале 2 команды: 
+```
+git config --global user.name "Ваше имя"
+git config --global user.email "mail@example.com"
+```
